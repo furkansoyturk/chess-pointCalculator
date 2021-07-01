@@ -14,8 +14,9 @@ setup SDK of project.
 * openjdk-16 (developed version is 16.01 )
 
 
-
-
 ## Usage
-* To run the program.
-Run Driver/Main
+* Run Driver/Main method
+* Select input file
+
+# Screenshot
+
