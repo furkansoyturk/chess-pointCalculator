@@ -20,3 +20,7 @@ https://www.java.com/en/download/
 
 # Screenshot
 
+
+![example-run-ss](https://user-images.githubusercontent.com/24878062/124054092-060e1580-da2a-11eb-85e6-2cc9c894f012.PNG)
+
+
