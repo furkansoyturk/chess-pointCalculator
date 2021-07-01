@@ -1,5 +1,8 @@
-# chess-pointCalculator
+## Description 
 
+# chess-point-calculator
+
+Find total points of sides according to given text input.(check src/input/board1.txt for sample input)
 
 ## 💾 Installation 
 
