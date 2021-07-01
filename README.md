@@ -1,8 +1,9 @@
-## Description 
-
 # chess-point-calculator
 
+## Description 
+
 Find total points of sides according to given text input.(check src/input/board1.txt for sample input)
+If Knight or Bishop threat any enemy piece, value of that piece will be reduced to half.
 
 ## 💾 Installation 
 
