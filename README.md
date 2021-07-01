@@ -5,15 +5,14 @@
 
 Install java
 ```bash
-Setup openjdk-16 (developed version is 16.01 )
+https://www.java.com/en/download/
 ```
 
 After download zip or clone repo, 
 setup SDK of project.
 
-```bash
-Setup openjdk-16 (developed version is 16.01 )
-```
+* Setup openjdk-16 (developed version is 16.01 )
+
 
 
 
