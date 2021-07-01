@@ -389,7 +389,6 @@ public class Spot {
 
     }
 
-    // custom to string to check input.txt
 //    @Override
 //    public String toString() {
 //        String a = "Spot{" +
